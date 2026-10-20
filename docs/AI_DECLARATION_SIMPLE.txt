@@ -1,0 +1,73 @@
+============================================================
+           AI USAGE DECLARATION
+============================================================
+
+Name: MD. Raihan Chowdhury
+Student ID: 21201796
+Assignment: 01
+Date: 18.10.2026
+
+------------------------------------------------------------
+1. AI TOOLS USED (check all that apply)
+------------------------------------------------------------
+[ ] None
+[*] ChatGPT
+[ ] GitHub Copilot
+[*] Google Gemini
+[ ] Claude
+[ ] Cursor
+[ ] Other: ________________
+
+------------------------------------------------------------
+2. PURPOSE OF AI USE (check all that apply)
+------------------------------------------------------------
+[*] Learning/understanding concepts
+[ ] Debugging my code
+[*] Generating code snippets
+[*] Writing text content
+[ ] Design/styling ideas
+[ ] Image generation
+[ ] Other: ________________
+
+------------------------------------------------------------
+3. DESCRIPTION OF AI USE
+------------------------------------------------------------
+Briefly describe what you used AI for and how:
+ChatGPT and Gemini were used as collaborative AI assistants during the development of the 'VangtiChai' Android application. Specifically, AI was utilized for:
+
+Brainstorming and debugging the XML layout structure (activity_main.xml) to ensure proper alignment of the custom numeric keypad and currency note breakdown lists across different screen sizes.
+
+Troubleshooting XML attribute syntax errors (such as correcting layout margin attributes during layout adjustments).
+
+Structuring and drafting project documentation and declaration files for the /docs directory.
+
+
+
+
+
+------------------------------------------------------------
+4. AI-ASSISTED SECTIONS
+------------------------------------------------------------
+List specific files/sections where AI helped significantly:
+
+File: app/src/main/res/layout/activity_main.xml | Section: UI Layout & Keypad Structure
+
+File: docs/README.txt | Section: Project Overview and Tested Devices
+
+File: docs/AI_Usage_Declaration.txt | Section: Declaration Formatting
+
+------------------------------------------------------------
+5. DECLARATION
+------------------------------------------------------------
+I declare that:
+- This disclosure is complete and accurate
+- I understand all code in my submission
+- I can explain and modify my work if asked
+- I take full responsibility for my submission
+
+Signature: ________Raihan_______________
+Date: ___________18.09.2026________________
+
+============================================================
+Save as: docs/AI_Declaration.txt
+============================================================
